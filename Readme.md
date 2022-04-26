@@ -118,6 +118,7 @@ El fichero .jar de la aplicación se localiza en el directorio target. Si lo nec
             - Perfil de instancia de IAM: LabInstanceProfile
     Finalmente, pulsa guardar y, en la siguiente ventana, crear aplicación
 
+    Esto creará la aplicación, un entorno Java y un bucket con el fichero .jar de la aplicación.
 
 - Comprueba la app: http://holamundo-env.eba-jpzdcpsd.us-east-1.elasticbeanstalk.com/
 
